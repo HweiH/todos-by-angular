@@ -11,4 +11,4 @@ Run `grunt` for building and `grunt serve` for preview.
 
 Running `grunt test` will run the unit tests with karma.
 
-> Powerby Yeoman
+> [*http://blog.jobbole.com/65399/*](http://blog.jobbole.com/65399/) -- Powerby [*Yeoman*](http://yeoman.io/)
